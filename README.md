@@ -127,29 +127,27 @@ streamlit run app.py
 ```
 
 ---
-## 📷 Screenshots
+## 🏠 Home Page
 
-### 🏠 Home Page
-
-![Home](images/home.png)
+![Home Page](images/home.png)
 
 ---
 
-### 📊 Dataset Dashboard
+## 📊 Dataset Dashboard
 
-![Dashboard](images/dashboard.png)
-
----
-
-### 🤖 Prediction Page
-
-![Prediction](images/prediction.png)
+![Dataset Dashboard](images/dashboard.png)
 
 ---
 
-### 📈 Prediction Result
+## 🤖 Prediction Page
 
-![Result](images/result.png)
+![Prediction Page](images/prediction.png)
+
+---
+
+## 📈 Prediction Result
+
+![Prediction Result](images/result.png)
 
 ## 🎯 Future Improvements
 
